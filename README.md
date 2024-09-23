@@ -65,10 +65,6 @@ Welcome to the **Java Programming Lab** repository for the 5th semester at Pokha
 
 Feel free to open issues or pull requests to improve the lab work or suggest improvements to the code. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
 ---
 
 **Pokhara University | 5th Semester | Java Programming Lab**
