@@ -1,4 +1,4 @@
-# Java Programming Lab - 5th Semester (Pokhara University)
+# Java Programming Lab - 5th Semester BCA (Pokhara University)
 
 Welcome to the **Java Programming Lab** repository for the 5th semester at Pokhara University. This repository contains lab assignments and practical implementations as per the syllabus, aimed at enhancing your understanding of core Java concepts, applets, multithreading, networking, JDBC, and more.
 
@@ -64,10 +64,6 @@ Welcome to the **Java Programming Lab** repository for the 5th semester at Pokha
 ## Contributing
 
 Feel free to open issues or pull requests to improve the lab work or suggest improvements to the code. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
