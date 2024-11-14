@@ -63,7 +63,7 @@ Welcome to the **Java Programming Lab** repository for the 5th semester at Pokha
 
 ## Contributing
 
-Feel free to open issues or pull requests to improve the lab work or suggest improvements to the code. Contributions are welcome!
+Feel free to open issues or pull requests to improve the lab work or suggest improvements to the code. Contributions are welcome !!
 
 ---
 
